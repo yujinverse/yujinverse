@@ -1,5 +1,4 @@
-
-![githubtitleyujin](https://github.com/seouldoji/seouldoji/assets/112642916/4ade4846-8db3-4241-8176-b705673ec124)
+![githubtitleyujin](https://github.com/seouldoji/seouldoji/assets/112642916/5314633c-bf0c-4a0f-a809-35fcf38bf5d3)
 
 <h1 align="center">student developer & designer yujin💗<br>다양한 것에 흥미를 느끼며,활동을 하는것을 좋아해요!</h1>
 
