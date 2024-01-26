@@ -1,4 +1,4 @@
-
+<p align="center"><img src="https://github.com/seouldoji/seouldoji/issues/2#issue-2101655499"></p>
 <h1 align="center">student developer & designer yujin💗</h1>
 <h3 align="center">다양한 것에 흥미를 느끼며,다양한 활동을 하는것을 추구해요!</h3>
 
