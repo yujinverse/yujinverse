@@ -1,5 +1,7 @@
 ![githubtitleyujin](https://github.com/seouldoji/seouldoji/assets/112642916/5314633c-bf0c-4a0f-a809-35fcf38bf5d3)
 
+<h3>프로필에서 딱! 5초만 기다리시면 신기한게 생겨요!</h3>
+
 <h1 align="center">student developer & designer yujin💗<br>다양한 것에 흥미를 느끼며,활동을 하는것을 좋아해요!</h1>
 
 <h2 align="center">💻 Develop Tech + Learning(~)<br>
