@@ -1,1 +1,1 @@
-시간은 금 :sparkles:
+if not now, then when?
